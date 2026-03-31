@@ -197,6 +197,7 @@ The following is the complete `MainPage.xaml` with all the above configurations 
     </Grid>
 </Page>
 ```
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/76016527-0b8a-4d73-af9c-35d049811f92" />
 
 ---
 
