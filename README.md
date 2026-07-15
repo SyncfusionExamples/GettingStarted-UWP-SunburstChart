@@ -4,7 +4,7 @@ This sample demonstrates how to create and configure a UWP Sunburst Chart using 
 
 ## Requirements to run the demo
 
-- Visual Studio 2019 or later
+- Visual Studio 2022 or later
 - Windows 10 SDK
 - Syncfusion UWP controls (Syncfusion.SfSunburstChart.UWP)
 
